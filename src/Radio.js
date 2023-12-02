@@ -1,3 +1,5 @@
+import "./Radio.css";
+
 const Radio = (props) => {
   return (
     <form>
